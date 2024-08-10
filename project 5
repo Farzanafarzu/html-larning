@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol>color
+        <li>red</li>
+        <li>green</li>
+        <li>blue</li>
+    </ol>
+    <ol type="A">Language
+    <li>English</li>
+    <li>Bangla</li>
+    <li>France</li>
+</ol>
+<table border="1">
+    <caption>EDUCATION QUALIFICATION</caption>
+    <tr>
+        <th>Exam</th>
+        <th>Year</th>
+        <th>CGPA</th>
+    </tr>
+    <tr>
+        <td>SSC</td>
+        <td>2017</td>
+        <td>5.00</td>
+    </tr>
+    <tr>
+        <td>HSC</td>
+        <td>2019</td>
+        <td>3.83</td>
+    </tr>
+    <tr>
+        <td>Graduation 1st year</td>
+        <td>2021</td>
+        <td>2.86</td>
+    </tr>
+</table>
+<form>
+    <label for="username">Username</label>
+    <input type="text " placeholder="name" value="name" id="username"><br>
+    <label for="phone">Contact Number</label>
+    <input type="number"  placeholder="number" value="number" id="phone"><br>
+    <label for="email">Email</label>
+    <input type="email" placeholder="email" id="email" value="email"><br>
+    <input type="file" value="file">
+    <label for="submit">Submit</label>
+    <input type="button" value="submited" id="submit">
+</form><br>
+<iframe width="300" height="200" src="https://www.youtube.com/embed/rklidcZ-aLU?si=SpBAIO7zmzudpcxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>

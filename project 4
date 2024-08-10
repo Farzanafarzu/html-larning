@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project 4</title>
+</head>
+<body>
+    <header>
+       <div>
+        <nav>
+            <ul>
+                <li>HOME</li>
+                <li>CONTACT</li>
+                <li>ABOUT</li>
+            </ul>
+        </nav>
+    </div>
+    </header>
+    <main>
+        <section><article>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum veniam perferendis mollitia ea vel saepe tempore laborum culpa dignissimos sit eius, eligendi voluptate optio debitis ex aliquid eos est soluta? Nesciunt magnam, quas illum ipsam amet vitae consectetur culpa ipsum.</article></section>
+        <section><aside>reviwe of viewer</aside></section>
+    </main>
+    <footer>
+        <a href="https://www.facebook.com/profile.php?id=100030183563904&sk=about" target="_blank">FACEBOOK</a><br>
+        <a href="https://www.instagram.com/farzanaakter224/?hl=en">INSTAGRAM</a><br>
+        <a href="http://www.youtube.com/@farzanaakter8172">YOUTUBE</a>
+    </footer>
+</body>
+</html>

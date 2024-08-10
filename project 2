@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project 2</title>
+
+    </head>
+    <body>
+        <h1>this is most important one</h1><br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias necessitatibus incidunt delectus dolor assumenda maxime!</p><hr>
+        <pre><b><u>FARZANA AKTER</u></b><br><b><u> WEB DEVOLOPER</u></b></pre>
+        <a href="https://www.youtube.com/" target="_blank"><img src="img/farzana.jpg"
+            alt="my pic"
+            width="300"></a>
+            <i>Farzana Akter</i><br>
+            a<sup>2</sup>+2ab+b<sup>2</sup>
+    </body>
+</html>
